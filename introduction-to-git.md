@@ -67,5 +67,16 @@ In decreasing precedence
 
 ### Remotes
 
-#### GitHub.com
+    $ git help remote
 
+    # Adding a new remote
+    $ git remote add origin git@github:oc-cs240/firstgit.git
+
+    # Update remote from the local repo
+    $ git push
+
+    # Update local repo from the remote
+    $ git pull
+
+#### GitHub.com
+#### Gravatar.com
