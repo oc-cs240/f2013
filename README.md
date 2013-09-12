@@ -8,6 +8,7 @@ External Links
 
 * [Prof. Darden's homepage](http://marcusdarden.cs.olivetcollege.edu)
 * [Course Github Repository](http://www.github.com/oc-cs240/f2013)
+* [Online Classroom](http://olivetcollege.adobeconnect.com/cs240f13)
 
 ### Reference sites
 
