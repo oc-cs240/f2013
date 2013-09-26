@@ -1,6 +1,10 @@
 *.py[cod]
 *.swp
+
+# iPython Notebook
+*_files
 *.ipynb_checkpoints
+
 # C extensions
 *.so
 
