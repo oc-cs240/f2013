@@ -1,3 +1,4 @@
+
 Introduction to Git
 ===================
 
@@ -43,9 +44,9 @@ Commit: Staging Index -> Repository (git commit)
 
 #### Creating a git repository
 
-    $ mkdir secondgit           # Create a directory
-    $ cd secondgit              # Enter the new directory
-    $ git init
+    mkdir secondgit           # Create a directory
+    cd secondgit              # Enter the new directory
+    git init
 
 ### Configuration
 
@@ -80,4 +81,5 @@ In decreasing precedence
 
 #### GitHub.com
 #### Gravatar.com
+
 
