@@ -13,7 +13,7 @@ Due: 2013-12-06
 News of your Keno simuluation prowess has spread, and a group of investors
 (read gamblers) has approached you, to enlist your skills. They want you to
 verify the information on the back of a Keno slip, and to help them choose
-a bettors plan of action.
+a bettor's plan of action.
 
 ### Assignment
 
@@ -27,7 +27,7 @@ individual win counts and odds contributions, and overall odds calculated.
 
 2. Winning is not the same as earning! Some wins return $1 for every $1 that
 has been bet. While this win technically contributes to the overall odds of
-winning, this so called "Push" will not advance the cause of your investors.
+winning, this so called "push" will not advance the cause of your investors.
 Design and run the Keno simulation(s) that will determine which spot game
 has the highest expected payout per dollar invested. Your output should
 clearly show all relevant information, including number of trials run, the
